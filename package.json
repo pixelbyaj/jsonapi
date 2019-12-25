@@ -1,0 +1,23 @@
+{
+  "name": "jsonapi",
+  "version": "1.0.0",
+  "description": "serialize & dserialize json api",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixelbyaj/jsonapi.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "jsonapi",
+    "json"
+  ],
+  "author": "pixelbyaj",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.7.3"
+  }
+}

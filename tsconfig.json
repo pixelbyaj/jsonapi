@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es6", //defines what sort of code ts generates, es5 because it's what most browsers currently UNDERSTANDS.
+        "module": "es2015",
+        "moduleResolution": "node",
+        "declaration": true,
+        "sourceMap": true,
+        "outDir": "./dist"
+    }
+}
