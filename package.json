@@ -9,7 +9,8 @@
     "url": "https://github.com/pixelbyaj/jsonapi.git"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "mocha --reporter spec"
   },
   "keywords": [
     "jsonapi",
@@ -19,5 +20,11 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^3.7.3"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.7",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
   }
 }
