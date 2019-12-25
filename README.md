@@ -2,9 +2,7 @@
 Serialize &amp; Dserialize JSON API
 
 ## Installation 
-```sh
-
-    ```console
+```console
     npm i jsonapi-parser --save
     yarn add jsonapi-parser
     bower install jsonapi-parser --save
