@@ -15,7 +15,3 @@ Serialize &amp; Dserialize JSON API
     jsonapi.serialize();
     jsonapi.deserialize();
 ```
-```sh
-Output should be 'Geese'
-```
-```
