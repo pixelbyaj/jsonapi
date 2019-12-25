@@ -6,7 +6,7 @@ Serialize &amp; Dserialize JSON API
     npm i jsonapi-parser --save
     yarn add jsonapi-parser
     bower install jsonapi-parser --save
-    ```
+```
 ## Usage
 ### Typescript
 
