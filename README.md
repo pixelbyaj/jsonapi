@@ -15,8 +15,9 @@ Serialize &amp; Dserialize JSON API
     jsonapi.serialize().then(x=>{
         console.log(JSON.stringify(x));
         jsonapi.deserialize(x).then(y=>{
+            console.log(JSON.stringify(y));
        })
     });
   })
-    jsonapi.deserialize();
+ 
 ```
