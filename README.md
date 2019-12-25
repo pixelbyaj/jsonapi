@@ -10,8 +10,13 @@ Serialize &amp; Dserialize JSON API
 ## Usage
 ### TypeScript
 ```typescript
-    import { JSONAPI } from 'jsonapi-parser';
+    import { JSONAPI } from '@pixelbyaj/jsonapi';
     let jsonapi = new JSONAPI(JSON_API_OBJECT);
-    jsonapi.serialize();
+    jsonapi.serialize().then(x=>{
+        console.log(JSON.stringify(x));
+        jsonapi.deserialize(x).then(y=>{
+       })
+    });
+  })
     jsonapi.deserialize();
 ```

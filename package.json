@@ -1,5 +1,5 @@
 {
-  "name": "jsonapi",
+  "name": "@pixelbyaj/jsonapi",
   "version": "1.0.0",
   "description": "serialize & dserialize json api",
   "main": "dist/index.js",
