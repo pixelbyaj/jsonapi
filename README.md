@@ -3,7 +3,7 @@ Serialize &amp; Dserialize JSON API
 
 
 [![npm](https://img.shields.io/npm/dt/@pixelbyaj/jsonapi.svg)](https://www.npmjs.com/package/@pixelbyaj/jsonapi)
-[![npm](https://img.shields.io/github/license/pixelbyaj/@pixelbyaj/jsonapi.svg)](https://github.com/pixelbyaj/jsonapi/blob/master/LICENSE)
+[![npm](https://img.shields.io/github/license/pixelbyaj/jsonapi?style=social)](https://github.com/pixelbyaj/jsonapi/blob/master/LICENSE)
 
 ## Installation 
 ```console
